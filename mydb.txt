@@ -1,0 +1,18 @@
+ABC
+30-may-2019|3.5|kg|Material construcción|1246.15
+01-jun-2019|10|m|Segunda|10234.56
+15-feb-2019|171|m^2|Piso|2515.15
+01-jul-2019|5|m|Tercera|4157.15
+05-jun-2019|10|m|Segunda|9876.15
+18-abr-2019|7|lbs|Cuarta|1515.15
+01-abr-2019|6.9|lbs|Cuarta|1434.15
+
+DEF
+01-jun-2019|6|lbs|MATERIALCONSTRUCCION|2345.67
+31-dic-2018|10|ft|Seg unda|2151.15
+05-may-2019|4|m|Tercera|2345.15
+01-abr-2019|3.2|kg|Cuarta|1475.00
+
+GHI
+15-jun-2019|150|ft^2|Piso|150.67
+15-abr-2019|5|m|TERCERA$|3200.00
